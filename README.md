@@ -1,4 +1,4 @@
 # AI-Resources
 
 ## Papers
-* Deepindex[https://deepindex.org/]
+* [Deepindex](https://deepindex.org/)
