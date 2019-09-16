@@ -1,4 +1,6 @@
 # AI-Resources
 
-## Papers
-* [Deepindex](https://deepindex.org/)
+## State of the Art
+* [Deep Index](https://deepindex.org/)
+* [Papers With Code](https://paperswithcode.com/)
+* [State of AI](https://www.stateof.ai/)
