@@ -7,3 +7,6 @@
 
 ## Infrastructure
 * [Pipeline AI](https://github.com/PipelineAI/pipeline)
+
+## Podcasts
+* [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
