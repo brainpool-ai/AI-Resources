@@ -4,7 +4,7 @@
 * [Deep Index](https://deepindex.org/)
 * [Papers With Code](https://paperswithcode.com/)
 * [State of AI](https://www.stateof.ai/)
-
+* [AI index 2019 report](https://slack-files.com/files-pri-safe/T5V881K6V-FRTBZ9HSR/ai_index_2019_report.pdf?c=1576664120-eb394732efba5daabbe094675543cdc29e01ec36)
 ## Reinforcement Learning
 * [John Schulman's Deep Reinforcement Learning lectures for MLSS 2016 in Cadiz.](https://frnsys.com/ai_notes/scratch/deep_rl.html)
 
@@ -18,6 +18,9 @@
 
 ## ChatBot
 * [Research Paper notes with images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images?utm_source=share&utm_medium=ios_app)
+
+## NLP
+* [Research papers of 2019](https://www.topbots.com/top-ai-nlp-research-papers-2019/)
 
 ## Infrastructure
 * [Pipeline AI](https://github.com/PipelineAI/pipeline)
