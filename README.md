@@ -14,7 +14,7 @@
 * [Deezer source separation library including pretrained models](https://github.com/deezer/spleeter)
 * [Machine learning version Control](https://github.com/iterative/dvc)
 * [machine learning and deep learning on kubernetes](https://github.com/polyaxon/polyaxon)
-* [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
+* [A list of useful Machine Learning frameworks, libraries and software](Machine Learning Sources.md)
 
 ## ChatBot
 * [Research Paper notes with images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images?utm_source=share&utm_medium=ios_app)
