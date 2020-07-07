@@ -4,7 +4,7 @@ A list of machine learning frameworks, libraries and software
 
 ## Table of Contents
 
-- [Books](##Books)
+- [Books](#Books)
 
 - [C++](#c)
     - [Computer Vision](#computer-vision-1)
@@ -59,7 +59,7 @@ A list of machine learning frameworks, libraries and software
     - [General-Purpose Machine Learning](#general-purpose-machine-learning-28)
 
 
-##Books 
+## Books 
 [Back to Top](#table-of-contents)
 
 * [ML- From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
