@@ -4,6 +4,8 @@ A list of machine learning frameworks, libraries and software
 
 ## Table of Contents
 
+- [Books](##Books)
+
 - [C++](#c)
     - [Computer Vision](#computer-vision-1)
     - [General-Purpose Machine Learning](#general-purpose-machine-learning-2)
@@ -56,6 +58,15 @@ A list of machine learning frameworks, libraries and software
 - [TensorFlow](#tensorflow)
     - [General-Purpose Machine Learning](#general-purpose-machine-learning-28)
 
+
+##Books 
+[Back to Top](#table-of-contents)
+
+* [ML- From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+* [BOOK: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+* [Deezer source separation library including pretrained models](https://github.com/deezer/spleeter)
+* [Machine learning version Control](https://github.com/iterative/dvc)
+* [machine learning and deep learning on kubernetes](https://github.com/polyaxon/polyaxon)
 
 <a name="cpp"></a>
 ## C++
