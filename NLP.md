@@ -105,6 +105,7 @@ Blogs and Newsletters
 
 ### Books and papers
 
+* [Research papers of 2019](https://www.topbots.com/top-ai-nlp-research-papers-2019/)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) - free, by Prof. Dan Jurafsy
 * [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class) - free, NLP notes by Dr. Jacob Eisenstein at GeorgiaTech 
 * [NLP with PyTorch](https://github.com/joosthub/PyTorchNLPBook) - Brian & Delip Rao 
