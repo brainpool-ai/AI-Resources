@@ -1,8 +1,9 @@
-# Speech and Natural Language Processing
+# Speech and Natural Language Processing Toolkit
+A list of Speech and NLP tools. 
 
-## Table of contents
-- [Language Modelling Toolkits](#Language-modelling-Toolkits)
-- [Speech Recognition](#Speech-Recognition)
+## Tools
+- [Language Modelling Tools](#Language-modelling-Toolkits)
+- [Speech Recognition Tools](#Speech-Recognition)
 - [Signal Processing](#Signal-Processing)
 - [Text-to-Speech](#Text-to-Speech)
 - [Speech Data](#Speech-Data)
