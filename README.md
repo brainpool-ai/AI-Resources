@@ -1,12 +1,13 @@
-# AI-Resources
-
-* [Repo of Artificial Intelligence courses, books, video lectures and papers.](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md)
-
 ## State of the Art
 * [Deep Index](https://deepindex.org/)
-* [Papers With Code](https://paperswithcode.com/)
-* [State of AI](https://www.stateof.ai/)
-* [AI index 2019 report](https://slack-files.com/files-pri-safe/T5V881K6V-FRTBZ9HSR/ai_index_2019_report.pdf?c=1576664120-eb394732efba5daabbe094675543cdc29e01ec36)
+* [Trending Papers With Code](https://paperswithcode.com/)
+* [State of AI Report](https://www.stateof.ai/)
+
+# AI-Resources
+* [Repo of Artificial Intelligence courses, books, video lectures and papers.](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md)
+* [Books](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md#books)
+* [Online Courses and vedios](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md#online-courses)
+* [Tools](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md#tools)
 
 ## Machine Learning
 * [Repo of useful Machine Learning frameworks, libraries and software](https://github.com/brainpool-ai/AI-Resources/blob/master/Machine%20Learning%20Sources.md)
@@ -17,6 +18,7 @@
 ## NLP
 * [Repo of NLP Courses, Tutorials, Libraries, Datasets.](https://github.com/brainpool-ai/AI-Resources/blob/master/NLP.md)
 * [Repo of Speech and NLP resources](https://github.com/brainpool-ai/AI-Resources/blob/master/Speech%20and%20NLP.md)
+* [List of NLP libraries](https://github.com/brainpool-ai/AI-Resources/blob/master/NLP%20libraries.md)
 
 ## Computer Vision
 * [Repo of computer vision Books, Courses, Papers ](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md)
