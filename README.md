@@ -21,7 +21,11 @@
 * [List of NLP libraries](https://github.com/brainpool-ai/AI-Resources/blob/master/NLP%20libraries.md)
 
 ## Computer Vision
-* [Repo of computer vision Books, Courses, Papers ](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md)
+* [Books](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md#books)
+* [Courses](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md#courses)
+* [Papers](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md#papers)
+* [Software tools](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md#software)
+* [Datasets](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md#datasets)
 
 ## Reinforcement Learning
 * [John Schulman's Deep Reinforcement Learning lectures for MLSS 2016 in Cadiz.](https://frnsys.com/ai_notes/scratch/deep_rl.html)
