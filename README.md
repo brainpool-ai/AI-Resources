@@ -1,3 +1,5 @@
+This is repo is a collection of resources that [Brainpool AI](https://brainpool.ai) collated as references to the field of computer science and subjects artifical intelligence, machine learning, machine vision, natural language processing (NLP). The repo also provides toolboxes and libaries for applications within the AI domain in a varitiy of programming languages.
+
 ## State of the Art
 * [Deep Index](https://deepindex.org/)
 * [Trending Papers With Code](https://paperswithcode.com/)
