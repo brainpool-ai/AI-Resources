@@ -1,11 +1,15 @@
-This is repo is a collection of resources that [Brainpool AI](https://brainpool.ai) collated as references to the field of computer science and subjects artifical intelligence, machine learning, machine vision, natural language processing (NLP). The repo also provides toolboxes and libaries for applications within the AI domain in a varitiy of programming languages.
+This is repo is a collection of resources that [Brainpool AI](https://brainpool.ai) collated as references to the field of computer science and the subjects artifical intelligence, machine learning, machine vision, natural language processing (NLP). The repo also provides toolboxes and libaries for applications within the AI domain for a variety of programming languages.
 
-## State of the Art
+## State of the Art (SOTA)
+A list of indexes, benchmarks, computer science paper, and leaderboards here you can find are the SOTA algorithms for a particular application.
 * [Deep Index](https://deepindex.org/)
 * [Trending Papers With Code](https://paperswithcode.com/)
 * [State of AI Report](https://www.stateof.ai/)
+* [GLUE](https://gluebenchmark.com/leaderboard)
+* [SuperGLUE](https://super.gluebenchmark.com/leaderboard)
+* [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/)
 
-# AI-Resources
+## AI-Resources
 * [Repo of Artificial Intelligence courses, books, video lectures and papers.](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md)
 * [Books](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md#books)
 * [Online Courses and vedios](https://github.com/brainpool-ai/AI-Resources/blob/master/AI%20resources.md#online-courses)
