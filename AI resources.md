@@ -1,5 +1,6 @@
 # Artificial Intelligence
-A list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+
+A list of Artificial Intelligence (AI) courses, books, video lectures and papers. This list was originaly forked from [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence).
 
 ## Contents
 
@@ -11,11 +12,14 @@ A list of Artificial Intelligence (AI) courses, books, video lectures and papers
 6. [Philosophy](#philosophy)
 
 ## Books
+
 [Back to Top](#contents)
 
+* [Machine Learning: a Probabilistic Perspective
+](https://www.cs.ubc.ca/~murphyk/MLbook/) - A graduate level book of the main branches of machine learning
 * [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
-* [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way. 
+* [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way.  
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 * [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 * [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
@@ -36,8 +40,10 @@ A list of Artificial Intelligence (AI) courses, books, video lectures and papers
 * [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 
-
 ## Online-courses
+
+[Back to Top](#contents)
+
 * [Deep Learning and Artificial Intelligence courses by the Lazy Programmer.](https://lazyprogrammer.me/)
 * [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
 * [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI
@@ -60,7 +66,7 @@ A list of Artificial Intelligence (AI) courses, books, video lectures and papers
 * [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
 * [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 * [The Cambridge Handbook Of Artificial Intelligence](http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915) - Written for non-specialists, it covers the discipline's foundations, major theories, and principal research areas, plus related topics such as artificial life
-* [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ](http://www.amazon.com/gp/product/0743276647) - In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work
+* [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind](http://www.amazon.com/gp/product/0743276647) - In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work
 * [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) - Beginning with elementary reactive agents, Nilsson gradually increases their cognitive horsepower to illustrate the most important and lasting ideas in AI
 * [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11) - Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com
 * [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7) - Kurzweil discusses how the brain works, how the mind emerges, brain-computer interfaces, and the implications of vastly increasing the powers of our intelligence to address the world’s problems
@@ -82,6 +88,7 @@ A list of Artificial Intelligence (AI) courses, books, video lectures and papers
 * [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautiful animated infographics and real life examples. Available in various languages.
 
 ## Tutorial Videos
+
 [Back to Top](#contents)
 
 * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
@@ -97,9 +104,8 @@ A list of Artificial Intelligence (AI) courses, books, video lectures and papers
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in depth Artificial Intelligence video tutorials and courses
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 
-
-
 ## Tools
+
 [Back to Top](#contents)
 
 * [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
@@ -108,6 +114,7 @@ A list of Artificial Intelligence (AI) courses, books, video lectures and papers
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
 ## Philosophy
+
 [Back to Top](#contents)
 
 * [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the questions: What happens when machines surpass humans in general intelligence. A really great book.
@@ -118,6 +125,7 @@ A list of Artificial Intelligence (AI) courses, books, video lectures and papers
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
 
 ## Source Code
+
 [Back to Top](#contents)
 
 * [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
