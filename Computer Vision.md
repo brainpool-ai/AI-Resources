@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
- - [Books](#books)
- - [Courses](#courses)
- - [Papers](#papers)
- - [Software](#software)
- - [Datasets](#datasets)
+ * [Books](#books)
+ * [Courses](#courses)
+ * [Papers](#papers)
+ * [Software](#software)
+ * [Datasets](#datasets)
 
 ## Books
 
@@ -130,7 +130,7 @@
  * [Applications to Machine Vision](http://videolectures.net/epsrcws08_blake_amv/) - Andrew Blake (Microsoft Research) 2008
  * [The Future of Image Search](http://videolectures.net/kdd08_malik_fis/?q=image) - Jitendra Malik (UC Berkeley) 2008
  * [Should I do a PhD in Computer Vision?](https://www.youtube.com/watch?v=M17oGxh3Ny8) - Fatih Porikli (Australian National University)
- - [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
+ * [Graduate Summer School 2013: Computer Vision](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule) - IPAM, 2013
 
 #### 3D Computer Vision
  * [3D Computer Vision: Past, Present, and Future](https://www.youtube.com/watch?v=kyIzMr917Rc) - Steve Seitz (University of Washington) 2011
@@ -144,8 +144,8 @@
 #### Computational Photography
  * [Reflections on Image-Based Modeling and Rendering](https://www.youtube.com/watch?v=j90_0Ndk7XM) - Richard Szeliski (Microsoft Research) 2013
  * [Photographing Events over Time](https://www.youtube.com/watch?v=ZvPaHZZVPRk) - William T. Freeman (MIT) 2011
- * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) -  Yair Weiss (The Hebrew University of Jerusalem) 2011
- * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) -  Peyman Milanfar (UC Santa Cruz/Google) 2010
+ * [Old and New algorithm for Blind Deconvolution](http://videolectures.net/nipsworkshops2011_weiss_deconvolution/) * Yair Weiss (The Hebrew University of Jerusalem) 2011
+ * [A Tour of Modern "Image Processing"](http://videolectures.net/nipsworkshops2010_milanfar_tmi/) * Peyman Milanfar (UC Santa Cruz/Google) 2010
  * [Topics in image and video processing](http://videolectures.net/mlss07_blake_tiivp/) Andrew Blake (Microsoft Research) 2007
  * [Computational Photography](https://www.youtube.com/watch?v=HJVNI0mkmqk) - William T. Freeman (MIT) 2012
  * [Revealing the Invisible](https://www.youtube.com/watch?v=_BWnIQY_X98) - Frédo Durand (MIT) 2012
@@ -164,7 +164,7 @@
  * [Graphical Models for Computer Vision](http://videolectures.net/uai2012_felzenszwalb_computer_vision/?q=computer%20vision) - Pedro Felzenszwalb (Brown University) 2012
  * [Graphical Models](http://videolectures.net/mlss09uk_ghahramani_gm/) - Zoubin Ghahramani (University of Cambridge) 2009
  * [Machine Learning, Probability and Graphical Models](http://videolectures.net/mlss06tw_roweis_mlpgm/) - Sam Roweis (NYU) 2006
- * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) -  Yair Weiss (The Hebrew University of Jerusalem) 2009
+ * [Graphical Models and Applications](http://videolectures.net/mlss09us_weiss_gma/?q=Graphical%20Models) * Yair Weiss (The Hebrew University of Jerusalem) 2009
 
 
 ## Software

@@ -1,65 +1,59 @@
 # Machine Learning:
 
-A list of machine learning frameworks, libraries and software
+A list of machine learning frameworks, libraries and software. This list was originaly sourced from [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Table of Contents
 
-- [Books](#Books)
+* [Books](#Books)
 
-- [C++](#c)
-    - [Computer Vision](#computer-vision-1)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-2)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Speech Recognition](#speech-recognition)
-    - [Sequence Analysis](#sequence-analysis)
-    - [Gesture Detection](#gesture-detection)
+* [C++](#c)
+  * [Computer Vision](#computer-vision-1)
+  * [General-Purpose Machine Learning](#general-purpose-machine-learning-2)
+  * [Natural Language Processing](#natural-language-processing)
+  * [Speech Recognition](#speech-recognition)
+  * [Sequence Analysis](#sequence-analysis)
+  * [Gesture Detection](#gesture-detection)
 
-- [Go](#go)
-    - [Natural Language Processing](#natural-language-processing-3)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-8)
-    - [Spatial analysis and geometry](#spatial-analysis-and-geometry)
-    - [Data Analysis / Data Visualization](#data-analysis--data-visualization-1)
-    - [Computer vision](#computer-vision-2)
-    - [Reinforcement learning](#reinforcement-learning)
+* [Go](#go)
+  * [Natural Language Processing](#natural-language-processing-3)
+  * [General-Purpose Machine Learning](#general-purpose-machine-learning-8)
+  * [Spatial analysis and geometry](#spatial-analysis-and-geometry)
+  * [Data Analysis / Data Visualization](#data-analysis--data-visualization-1)
+  * [Computer vision](#computer-vision-2)
+  * [Reinforcement learning](#reinforcement-learning)
 
-- [Java](#java)
-    - [Natural Language Processing](#natural-language-processing-4)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-10)
-    - [Speech Recognition](#speech-recognition-1)
-    - [Data Analysis / Data Visualization](#data-analysis--data-visualization-2)
-    - [Deep Learning](#deep-learning)
-- [Javascript](#javascript)
-    - [Natural Language Processing](#natural-language-processing-5)
-    - [Data Analysis / Data Visualization](#data-analysis--data-visualization-3)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-11)
-    - [Misc](#misc)
-    - [Demos and Scripts](#demos-and-scripts)
+* [Javascript](#javascript)
+  * [Natural Language Processing](#natural-language-processing-5)
+  * [Data Analysis / Data Visualization](#data-analysis--data-visualization-3)
+  * [General-Purpose Machine Learning](#general-purpose-machine-learning-11)
+  * [Misc](#misc)
+  * [Demos and Scripts](#demos-and-scripts)
 
-- [Matlab](#matlab)
-    - [Computer Vision](#computer-vision-3)
-    - [Natural Language Processing](#natural-language-processing-7)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-14)
-    - [Data Analysis / Data Visualization](#data-analysis--data-visualization-5)
+* [Matlab](#matlab)
+  * [Computer Vision](#computer-vision-3)
+  * [Natural Language Processing](#natural-language-processing-7)
+  * [General-Purpose Machine Learning](#general-purpose-machine-learning-14)
+  * [Data Analysis / Data Visualization](#data-analysis--data-visualization-5)
 
-- [Python](#python)
-    - [Computer Vision](#computer-vision-5)
-    - [Natural Language Processing](#natural-language-processing-10)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-21)
-    - [Data Analysis / Data Visualization](#data-analysis--data-visualization-9)
-    - [Misc Scripts / iPython Notebooks / Codebases](#misc-scripts--ipython-notebooks--codebases)
-    - [Neural Networks](#neural-networks)
-    - [Kaggle Competition Source Code](#kaggle-competition-source-code)
-    - [Reinforcement Learning](#reinforcement-learning-1)
+* [Python](#python)
+  * [Computer Vision](#computer-vision-5)
+  * [Natural Language Processing](#natural-language-processing-10)
+  * [General-Purpose Machine Learning](#general-purpose-machine-learning-21)
+  * [Data Analysis / Data Visualization](#data-analysis--data-visualization-9)
+  * [Misc Scripts / iPython Notebooks / Codebases](#misc-scripts--ipython-notebooks--codebases)
+  * [Neural Networks](#neural-networks)
+  * [Kaggle Competition Source Code](#kaggle-competition-source-code)
+  * [Reinforcement Learning](#reinforcement-learning-1)
 
-- [R](#r)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-24)
-    - [Data Analysis / Data Visualization](#data-analysis--data-visualization-11)
+* [R](#r)
+  * [General-Purpose Machine Learning](#general-purpose-machine-learning-24)
+  * [Data Analysis / Data Visualization](#data-analysis--data-visualization-11)
 
-- [TensorFlow](#tensorflow)
-    - [General-Purpose Machine Learning](#general-purpose-machine-learning-28)
+* [TensorFlow](#tensorflow)
+  * [General-Purpose Machine Learning](#general-purpose-machine-learning-28)
 
+## Books
 
-## Books 
 [Back to Top](#table-of-contents)
 
 * [ML- From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
@@ -69,12 +63,14 @@ A list of machine learning frameworks, libraries and software
 * [machine learning and deep learning on kubernetes](https://github.com/polyaxon/polyaxon)
 
 <a name="cpp"></a>
+
 ## C++
 
 [Back to Top](#table-of-contents)
 
 <a name="cpp-cv"></a>
-#### Computer Vision
+
+## Computer Vision
 
 * [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
 * [EBLearn](http://eblearn.sourceforge.net/) - Eblearn is an object-oriented C++ library that implements various machine learning models **[Deprecated]**
@@ -83,7 +79,8 @@ A list of machine learning frameworks, libraries and software
 * [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 
 <a name="cpp-general-purpose"></a>
-#### General-Purpose Machine Learning
+
+## General-Purpose Machine Learning
 
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **[Deprecated]**
 * [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
@@ -133,25 +130,28 @@ A list of machine learning frameworks, libraries and software
 * [CRFsuite](http://www.chokkan.org/software/crfsuite/) - CRFsuite is an implementation of Conditional Random Fields (CRFs) for labeling sequential data. **[Deprecated]**
 * [frog](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
 * [libfolia](https://github.com/LanguageMachines/libfolia) - C++ library for the [FoLiA format](https://proycon.github.io/folia/)
-* [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+* [MeTA](https://github.com/meta-toolkit/meta) * [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 * [ucto](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 <a name="cpp-speech-recognition"></a>
-#### Speech Recognition
+## Speech Recognition
+
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
 <a name="cpp-sequence"></a>
-#### Sequence Analysis
+## Sequence Analysis
+
 * [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet. **[Deprecated]**
 
 <a name="cpp-gestures"></a>
-#### Gesture Detection
+## Gesture Detection
+
 * [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 
 <a name="go-general-purpose"></a>
-#### General-Purpose Machine Learning
+## General-Purpose Machine Learning
 
 * [birdland](https://github.com/rlouf/birdland) - A recommendation library in Go.
 * [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
@@ -175,13 +175,13 @@ A list of machine learning frameworks, libraries and software
 * [go-dnn](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
 
 <a name="go-spatial-analysis"></a>
-#### Spatial analysis and geometry
+## Spatial analysis and geometry
 
 * [go-geom](https://github.com/twpayne/go-geom) - Go library to handle geometries.
 * [gogeo](https://github.com/golang/geo) - Spherical geometry in Go.
 
 <a name="go-data-analysis"></a>
-#### Data Analysis / Data Visualization
+## Data Analysis / Data Visualization
 
 * [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 * [gota](https://github.com/go-gota/gota) - Dataframes.
@@ -197,96 +197,15 @@ A list of machine learning frameworks, libraries and software
 * [RF](https://github.com/fxsjy/RF.go) - Random forests implementation in Go. **[Deprecated]**
 
 <a name="go-computer-vision"></a>
-#### Computer vision
+## Computer vision
 
 * [GoCV](https://github.com/hybridgroup/gocv) - Package for computer vision using OpenCV 4 and beyond.
 
 <a name="go-reinforcement-learning"></a>
-#### Reinforcement learning
+## Reinforcement learning
 
 * [gold](https://github.com/aunum/gold) - A reinforcement learning library.
 
-
-<a name="java"></a>
-## Java
-
-[Back to Top](#table-of-contents)
-
-<a name="java-nlp"></a>
-#### Natural Language Processing
-* [Cortical.io](https://www.cortical.io/) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
-* [IRIS](https://github.com/cortical-io/Iris) - [Cortical.io's](https://cortical.io) FREE NLP, Retina API Analysis Tool (written in JavaFX!) - [See the Tutorial Video](https://www.youtube.com/watch?v=CsF4pd7fGF0).
-* [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
-* [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences.
-* [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger).
-* [Stanford Name Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.shtml) - Stanford NER is a Java implementation of a Named Entity Recognizer.
-* [Stanford Word Segmenter](https://nlp.stanford.edu/software/segmenter.shtml) - Tokenization of raw text is a standard pre-processing step for many NLP tasks.
-* [Tregex, Tsurgeon and Semgrex](https://nlp.stanford.edu/software/tregex.shtml) - Tregex is a utility for matching patterns in trees, based on tree relationships and regular expression matches on nodes (the name is short for "tree regular expressions").
-* [Stanford Phrasal: A Phrase-Based Translation System](https://nlp.stanford.edu/phrasal/)
-* [Stanford English Tokenizer](https://nlp.stanford.edu/software/tokenizer.shtml) - Stanford Phrasal is a state-of-the-art statistical phrase-based machine translation system, written in Java.
-* [Stanford Tokens Regex](https://nlp.stanford.edu/software/tokensregex.shtml) - A tokenizer divides text into a sequence of tokens, which roughly correspond to "words".
-* [Stanford Temporal Tagger](https://nlp.stanford.edu/software/sutime.shtml) - SUTime is a library for recognizing and normalizing time expressions.
-* [Stanford SPIED](https://nlp.stanford.edu/software/patternslearning.shtml) - Learning entities from unlabeled text starting with seed sets using patterns in an iterative fashion.
-* [Stanford Topic Modeling Toolbox](https://nlp.stanford.edu/software/tmt) - Topic modeling tools to social scientists and others who wish to perform analysis on datasets.
-* [Twitter Text Java](https://github.com/twitter/twitter-text/tree/master/java) - A Java implementation of Twitter's text processing library.
-* [MALLET](http://mallet.cs.umass.edu/) - A Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
-* [OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text.
-* [LingPipe](http://alias-i.com/lingpipe/index.html) - A tool kit for processing text using computational linguistics.
-* [ClearTK](https://github.com/ClearTK/cleartk) - ClearTK provides a framework for developing statistical natural language processing (NLP) components in Java and is built on top of Apache UIMA. **[Deprecated]**
-* [Apache cTAKES](https://ctakes.apache.org/) - Apache clinical Text Analysis and Knowledge Extraction System (cTAKES) is an open-source natural language processing system for information extraction from electronic medical record clinical free-text.
-* [NLP4J](https://github.com/emorynlp/nlp4j) - The NLP4J project provides software and resources for natural language processing. The project started at the Center for Computational Language and EducAtion Research, and is currently developed by the Center for Language and Information Research at Emory University. **[Deprecated]**
-* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - This project collects a number of core libraries for Natural Language Processing (NLP) developed in the University of Illinois' Cognitive Computation Group, for example `illinois-core-utilities` which provides a set of NLP-friendly data structures and a number of NLP-related utilities that support writing NLP applications, running experiments, etc, `illinois-edison` a library for feature extraction from illinois-core-utilities data structures and many other packages.
-
-<a name="java-general-purpose"></a>
-#### General-Purpose Machine Learning
-
-* [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning library by Airbnb designed from the ground up to be human friendly.
-* [AMIDST Toolbox](http://www.amidsttoolbox.com/) - A Java Toolbox for Scalable Probabilistic Machine Learning.
-* [Datumbox](https://github.com/datumbox/datumbox-framework) - Machine Learning framework for rapid development of Machine Learning and Statistical applications.
-* [ELKI](https://elki-project.github.io/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
-* [Encog](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trains using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
-* [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/dev/libs/ml/index.html) - Distributed machine learning library in Flink.
-* [H2O](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
-* [htm.java](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm.
-* [liblinear-java](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
-* [Mahout](https://github.com/apache/mahout) - Distributed machine learning.
-* [Meka](http://meka.sourceforge.net/) - An open source implementation of methods for multi-label classification and evaluation (extension to Weka).
-* [MLlib in Apache Spark](https://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
-* [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for deployment Apache Spark MLLib machine learning models as realtime, batch or reactive web services.
-* [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework
-* [ORYX](https://github.com/oryxproject/oryx) - Lambda Architecture Framework using Apache Spark and Apache Kafka with a specialization for real-time large-scale machine learning.
-* [Samoa](https://samoa.incubator.apache.org/) SAMOA is a framework that includes distributed machine learning for data streams with an interface to plug-in different stream processing platforms.
-* [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/) - RankLib is a library of learning to rank algorithms. **[Deprecated]**
-* [rapaio](https://github.com/padreati/rapaio) - statistics, data mining and machine learning toolbox in Java.
-* [RapidMiner](https://rapidminer.com) - RapidMiner integration into Java code.
-* [Stanford Classifier](https://nlp.stanford.edu/software/classifier.shtml) - A classifier is a machine learning tool that will take data items and place them into one of k classes.
-* [SmileMiner](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
-* [SystemML](https://github.com/apache/systemml) - flexible, scalable machine learning (ML) language.
-* [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks.
-* [LBJava](https://github.com/CogComp/lbjava) - Learning Based Java is a modeling language for the rapid development of software systems, offers a convenient, declarative syntax for classifier and constraint definition directly in terms of the objects in the programmer's application.
-
-
-<a name="java-speech-recognition"></a>
-#### Speech Recognition
-* [CMU Sphinx](https://cmusphinx.github.io) - Open Source Toolkit For Speech Recognition purely based on Java speech recognition library.
-
-<a name="java-data-analysis"></a>
-#### Data Analysis / Data Visualization
-
-* [Flink](https://flink.apache.org/) - Open source platform for distributed stream and batch data processing.
-* [Hadoop](https://github.com/apache/hadoop) - Hadoop/HDFS.
-* [Onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing. Written entirely in Clojure.
-* [Spark](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
-* [Storm](https://storm.apache.org/) - Storm is a distributed realtime computation system.
-* [Impala](https://github.com/cloudera/impala) - Real-time Query for Hadoop.
-* [DataMelt](https://jwork.org/dmelt/) - Mathematics software for numeric computation, statistics, symbolic calculations, data analysis and data visualization.
-* [Dr. Michael Thomas Flanagan's Java Scientific Library](https://www.ee.ucl.ac.uk/~mflanaga/java/) **[Deprecated]**
-
-<a name="java-deep-learning"></a>
-#### Deep Learning
-
-* [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Scalable deep learning for industry with parallel GPUs.
-* [Keras Beginner Tutorial](https://victorzhou.com/blog/keras-neural-network-tutorial/) - Friendly guide on using Keras to implement a simple Neural Network in Python
 
 
 <a name="javascript"></a>
@@ -542,7 +461,7 @@ on MNIST digits[DEEP LEARNING].
 * [Brainstorm](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
 * [Surprise](https://surpriselib.com) - A scikit for building and analyzing recommender systems.
 * [implicit](https://implicit.readthedocs.io/en/latest/quickstart.html) - Fast Python Collaborative Filtering for Implicit Datasets.
-* [LightFM](https://making.lyst.com/lightfm/docs/home.html) -  A Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.
+* [LightFM](https://making.lyst.com/lightfm/docs/home.html) * A Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.
 * [Crab](https://github.com/muricoca/crab) - A flexible, fast recommender engine. **[Deprecated]**
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis.

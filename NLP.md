@@ -1,8 +1,9 @@
 
 # Natural Language Processing
-A list of Research trends, labs, NLP Courses, Tutorials, Datasets. 
 
-## Contents
+A list of Research trends, labs, NLP Courses, Tutorials, Datasets. This list was originally sources from [Awesome-NLP](https://github.com/keon/awesome-nlp).
+
+## Content
 
 * [Research](#Research)
   * [Summaries](#summaries)
@@ -17,7 +18,6 @@ A list of Research trends, labs, NLP Courses, Tutorials, Datasets.
 * [Annotation Tools](#annotation-tools)
 * [Datasets](#datasets)
 * [Applications](#Applications)
-
 
 ## Research
 
@@ -106,29 +106,29 @@ Blogs and Newsletters
 
 NLP as API with higher level functionality such as NER, Topic tagging and so on | [Back to Top](#contents)
 
-- [Wit-ai](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices
-- [IBM Watson's Natural Language Understanding](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - API and Github demo 
-- [Amazon Comprehend](https://aws.amazon.com/comprehend/) - NLP and ML suite covers most common tasks like NER, tagging, and sentiment analysis
-- [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - Syntax Analysis, NER, Sentiment Analysis, and Content tagging in atleast 9 languages include English and Chinese (Simplified and Traditional).
-- [ParallelDots](https://www.paralleldots.com/text-analysis-apis) - High level Text Analysis API Service ranging from Sentiment Analysis to Intent Analysis
-- [Microsoft Cognitive Service](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
-- [TextRazor](https://www.textrazor.com/)
-- [Rosette](https://www.rosette.com/)
-- [Textalytic](https://www.textalytic.com) - Natural Language Processing in the Browser with sentiment analysis, named entity extraction, POS tagging, word frequencies, topic modeling, word clouds, and more
+* [Wit-ai](https://github.com/wit-ai/wit) - Natural Language Interface for apps and devices
+* [IBM Watson's Natural Language Understanding](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - API and Github demo 
+* [Amazon Comprehend](https://aws.amazon.com/comprehend/) - NLP and ML suite covers most common tasks like NER, tagging, and sentiment analysis
+* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - Syntax Analysis, NER, Sentiment Analysis, and Content tagging in atleast 9 languages include English and Chinese (Simplified and Traditional).
+* [ParallelDots](https://www.paralleldots.com/text-analysis-apis) - High level Text Analysis API Service ranging from Sentiment Analysis to Intent Analysis
+* [Microsoft Cognitive Service](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+* [TextRazor](https://www.textrazor.com/)
+* [Rosette](https://www.rosette.com/)
+* [Textalytic](https://www.textalytic.com) - Natural Language Processing in the Browser with sentiment analysis, named entity extraction, POS tagging, word frequencies, topic modeling, word clouds, and more
 
 ## Annotation Tools
 
-- [GATE](https://gate.ac.uk/overview.html) - General Architecture and Text Engineering is 15+ years old, free and open source
-- [Anafora](https://github.com/weitechen/anafora) is free and open source, web-based raw text annotation tool
-- [brat](https://brat.nlplab.org/) - brat rapid annotation tool is an online environment for collaborative text annotation
-- [doccano](https://github.com/chakki-works/doccano) - doccano is free, open-source, and provides annotation features for text classification, sequence labeling and sequence to sequence
-- [INCEpTION](https://inception-project.github.io) - A semantic annotation platform offering intelligent assistance and knowledge management
-- [tagtog](https://www.tagtog.net/), team-first web tool to find, create, maintain, and share datasets - costs $
-- [prodigy](https://prodi.gy/) is an annotation tool powered by active learning, costs $
-- [LightTag](https://lighttag.io) - Hosted and managed text annotation tool for teams, costs $
-- [rstWeb](https://corpling.uis.georgetown.edu/rstweb/info/) - open source local or online tool for discourse tree annotations
-- [GitDox](https://corpling.uis.georgetown.edu/gitdox/) - open source server annotation tool with GitHub version control and validation for XML data and collaborative spreadsheet grids
-- [Label Studio](https://www.heartex.ai/) - Hosted and managed text annotation tool for teams, freemium based, costs $
+* [GATE](https://gate.ac.uk/overview.html) - General Architecture and Text Engineering is 15+ years old, free and open source
+* [Anafora](https://github.com/weitechen/anafora) is free and open source, web-based raw text annotation tool
+* [brat](https://brat.nlplab.org/) - brat rapid annotation tool is an online environment for collaborative text annotation
+* [doccano](https://github.com/chakki-works/doccano) - doccano is free, open-source, and provides annotation features for text classification, sequence labeling and sequence to sequence
+* [INCEpTION](https://inception-project.github.io) - A semantic annotation platform offering intelligent assistance and knowledge management
+* [tagtog](https://www.tagtog.net/), team-first web tool to find, create, maintain, and share datasets - costs $
+* [prodigy](https://prodi.gy/) is an annotation tool powered by active learning, costs $
+* [LightTag](https://lighttag.io) - Hosted and managed text annotation tool for teams, costs $
+* [rstWeb](https://corpling.uis.georgetown.edu/rstweb/info/) - open source local or online tool for discourse tree annotations
+* [GitDox](https://corpling.uis.georgetown.edu/gitdox/) - open source server annotation tool with GitHub version control and validation for XML data and collaborative spreadsheet grids
+* [Label Studio](https://www.heartex.ai/) - Hosted and managed text annotation tool for teams, freemium based, costs $
 
 ### Open Source Framework
 * [Rasa Open Source Conversational AI](https://rasa.com/)
@@ -141,46 +141,46 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 
 - Thumb Rule: **fastText >> GloVe > word2vec**
 
-- [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - [implementation](https://code.google.com/archive/p/word2vec/) - [explainer blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-- [glove](https://nlp.stanford.edu/pubs/glove.pdf) - [explainer blog](https://blog.acolyer.org/2016/04/22/glove-global-vectors-for-word-representation/)
-- fasttext - [implementation](https://github.com/facebookresearch/fastText) - [paper](https://arxiv.org/abs/1607.04606) - [explainer blog](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
+* [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) * [implementation](https://code.google.com/archive/p/word2vec/) * [explainer blog](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+* [glove](https://nlp.stanford.edu/pubs/glove.pdf) * [explainer blog](https://blog.acolyer.org/2016/04/22/glove-global-vectors-for-word-representation/)
+- fasttext * [implementation](https://github.com/facebookresearch/fastText) * [paper](https://arxiv.org/abs/1607.04606) * [explainer blog](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
 
 #### Sentence and Language Model Based Word Embeddings
 
 [Back to Top](#contents)
 
-- ElMo - [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365) - [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - [TF Implementation](https://github.com/allenai/bilm-tf)
-- ULMFiT - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) by Jeremy Howard and Sebastian Ruder
-- InferSent - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) by facebook
-- CoVe - [Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107)
+- ElMo * [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365) * [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) * [TF Implementation](https://github.com/allenai/bilm-tf)
+- ULMFiT * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) by Jeremy Howard and Sebastian Ruder
+- InferSent * [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) by facebook
+- CoVe * [Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107)
 - Pargraph vectors - from [Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf). See [doc2vec tutorial at gensim](https://rare-technologies.com/doc2vec-tutorial/)
-- [sense2vec](https://arxiv.org/abs/1511.06388) - on word sense disambiguation
-- [Skip Thought Vectors](https://arxiv.org/abs/1506.06726) - word representation method
-- [Adaptive skip-gram](https://arxiv.org/abs/1502.07257) - similar approach, with adaptive properties
-- [Sequence to Sequence Learning](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) - word vectors for machine translation
+* [sense2vec](https://arxiv.org/abs/1511.06388) - on word sense disambiguation
+* [Skip Thought Vectors](https://arxiv.org/abs/1506.06726) - word representation method
+* [Adaptive skip-gram](https://arxiv.org/abs/1502.07257) - similar approach, with adaptive properties
+* [Sequence to Sequence Learning](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) - word vectors for machine translation
 
 ### Question Answering and Knowledge Extraction
 
 [Back to Top](#contents)
 
-- [Reddit Discusion](https://www.reddit.com/r/MachineLearning/)
-- [DrQA](https://github.com/facebookresearch/DrQA) - Open Domain Question Answering work by Facebook Research on Wikipedia data
-- [Document-QA](https://github.com/allenai/document-qa) - Simple and Effective Multi-Paragraph Reading Comprehension by AllenAI
-- [Template-Based Information Extraction without the Templates](https://www.usna.edu/Users/cs/nchamber/pubs/acl2011-chambers-templates.pdf)
-- [Privee: An Architecture for Automatically Analyzing Web Privacy Policies](https://www.sebastianzimmeck.de/zimmeckAndBellovin2014Privee.pdf)
+* [Reddit Discusion](https://www.reddit.com/r/MachineLearning/)
+* [DrQA](https://github.com/facebookresearch/DrQA) - Open Domain Question Answering work by Facebook Research on Wikipedia data
+* [Document-QA](https://github.com/allenai/document-qa) - Simple and Effective Multi-Paragraph Reading Comprehension by AllenAI
+* [Template-Based Information Extraction without the Templates](https://www.usna.edu/Users/cs/nchamber/pubs/acl2011-chambers-templates.pdf)
+* [Privee: An Architecture for Automatically Analyzing Web Privacy Policies](https://www.sebastianzimmeck.de/zimmeckAndBellovin2014Privee.pdf)
 
 ## Datasets
 
 [Back to Top](#contents)
 
-- [nlp-datasets](https://github.com/niderhoff/nlp-datasets) great collection of nlp datasets
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets) great collection of nlp datasets
 
 ## Multilingual NLP Frameworks
 
 [Back to Top](#contents)
 
-- [UDPipe](https://github.com/ufal/udpipe) is a trainable pipeline for tokenizing, tagging, lemmatizing and parsing Universal Treebanks and other CoNLL-U files. Primarily written in C++, offers a fast and reliable solution for multilingual NLP processing.
-- [NLP-Cube](https://github.com/adobe/NLP-Cube) : Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing. New platform, written in Python with Dynet 2.0. Offers standalone (CLI/Python bindings) and server functionality (REST API).
+* [UDPipe](https://github.com/ufal/udpipe) is a trainable pipeline for tokenizing, tagging, lemmatizing and parsing Universal Treebanks and other CoNLL-U files. Primarily written in C++, offers a fast and reliable solution for multilingual NLP processing.
+* [NLP-Cube](https://github.com/adobe/NLP-Cube) : Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing. New platform, written in Python with Dynet 2.0. Offers standalone (CLI/Python bindings) and server functionality (REST API).
 
 ## Applications
 [Back to Top](#contents)
