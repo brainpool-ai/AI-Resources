@@ -22,6 +22,7 @@ A list of indexes, benchmarks, computer science paper, and leaderboards here you
 * [NLP libraries](https://github.com/brainpool-ai/AI-Resources/blob/master/NLP%20libraries.md)
 * [Computer Vision](https://github.com/brainpool-ai/AI-Resources/blob/master/Computer%20Vision.md)
 * [Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph)
+* [Awesome ML Courses](https://github.com/luspr/awesome-ml-courses)
 
 ## Reinforcement Learning
 
